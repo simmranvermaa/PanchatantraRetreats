@@ -1,0 +1,10 @@
+email: 'info@panchatantraretreats.com'
+phone: '812 626 4457'
+businessName: 'Hugo Serif'
+address: |
+  261-B, Nirmal Bag 
+  Rishikesh, Uttarakhand
+hours:
+  - day: Monday - Sunday
+    open: 8:30am
+    close: 6:00pm
